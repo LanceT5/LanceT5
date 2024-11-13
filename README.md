@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## About Me
+My name is Lance Thongsavanh and I am attending Ohio University and expecting to graduate in 2028. 
+
 <!--
 **LanceT5/LanceT5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
